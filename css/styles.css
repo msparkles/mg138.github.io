@@ -10,10 +10,10 @@
   --violet-normal: #a174bb;
   --violet-light: #633283;
 
-  --indigo-light: #999adf;
+  --indigo-daek: #999adf;
   --indigo-normal: #6e5eb9;
   --indigo-deep: #201d38;
-  --indigo-dark: #191629;
+  --indigo-light: #191629;
 
   --black-medium: #40404090;
 }
@@ -22,10 +22,10 @@
     :root {
         --white: #f0f0f0;
         --gray: #cacaca;
-        
          --violet-light: #c7a7cf;
-         --violet-normal: #a174bb;
          --violet-deep: #633283;
+         --indigo-dark: #191629;
+         --indigo-light: #999adf;
     }
 }
 
@@ -39,17 +39,17 @@
 
 .font-mono,
 .content {
-  font-family: monospace;
+  font-family: "Twinkle Mono", monospace;
 }
 
 .font-sans,
 .nav-element {
-  font-family: sans-serif;
+  font-family: "Inter", sans-serif;
 }
 
 .font-serif,
 .section {
-  font-family: serif;
+  font-family: "Lora", serif;
 }
 
 .box,
@@ -144,7 +144,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: sans-serif;
+  font-family: "Inter", sans-serif;
 
   color: var(--white);
 
