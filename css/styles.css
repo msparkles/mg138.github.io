@@ -71,6 +71,9 @@
 .section {
   padding: 20px;
 
+  width: auto;
+  height: auto;
+
   margin-block-end: 60px;
 
   border-radius: 10px;

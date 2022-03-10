@@ -23,8 +23,7 @@ Youtube Channel
 </a>
 </h2>
 <div class="content" markdown="1">
-It mostly consists of songs from the *My Little Pony* fandom, \\
-translated from English to Chinese.
+It mostly consists of songs from the *My Little Pony* fandom, translated from English to Chinese.
 </div>
 
 <h2>Email</h2>
