@@ -10,7 +10,7 @@
   --violet-normal: #a174bb;
   --violet-light: #633283;
 
-  --indigo-daek: #999adf;
+  --indigo-dark: #999adf;
   --indigo-normal: #6e5eb9;
   --indigo-deep: #201d38;
   --indigo-light: #191629;
@@ -19,14 +19,14 @@
 }
 
 @media only screen and (prefers-color-scheme: dark) {
-    :root {
-        --white: #f0f0f0;
-        --gray: #cacaca;
-         --violet-light: #c7a7cf;
-         --violet-deep: #633283;
-         --indigo-dark: #191629;
-         --indigo-light: #999adf;
-    }
+  :root {
+    --white: #f0f0f0;
+    --gray: #cacaca;
+    --violet-light: #c7a7cf;
+    --violet-deep: #633283;
+    --indigo-dark: #191629;
+    --indigo-light: #999adf;
+  }
 }
 
 .bold {
@@ -39,7 +39,7 @@
 
 .font-mono,
 .content {
-  font-family: "Twinkle Mono", monospace;
+  font-family: "Roboto Mono", monospace;
 }
 
 .font-sans,

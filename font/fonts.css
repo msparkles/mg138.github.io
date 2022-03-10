@@ -4,87 +4,116 @@
   font-style: normal;
   font-weight: 400;
   src: local(''),
-       url('./inter/inter-v8-latin-ext_latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-       url('./inter/inter-v8-latin-ext_latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    url('./inter/inter-v8-latin-ext_latin-regular.woff2') format('woff2'),
+    /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./inter/inter-v8-latin-ext_latin-regular.woff') format('woff');
+  /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
+
 /* inter-700 - latin-ext_latin */
 @font-face {
   font-family: 'Inter';
   font-style: normal;
   font-weight: 700;
   src: local(''),
-       url('./inter/inter-v8-latin-ext_latin-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-       url('./inter/inter-v8-latin-ext_latin-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    url('./inter/inter-v8-latin-ext_latin-700.woff2') format('woff2'),
+    /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./inter/inter-v8-latin-ext_latin-700.woff') format('woff');
+  /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
+
 /* roboto-mono-regular - latin-ext_latin */
 @font-face {
   font-family: 'Roboto Mono';
   font-style: normal;
   font-weight: 400;
   src: local(''),
-       url('./roboto-mono/roboto-mono-v13-latin-ext_latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-       url('./roboto-mono/roboto-mono-v13-latin-ext_latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    url('./roboto-mono/roboto-mono-v13-latin-ext_latin-regular.woff2') format('woff2'),
+    /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./roboto-mono/roboto-mono-v13-latin-ext_latin-regular.woff') format('woff');
+  /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
+
 /* roboto-mono-700 - latin-ext_latin */
 @font-face {
   font-family: 'Roboto Mono';
   font-style: normal;
   font-weight: 700;
   src: local(''),
-       url('./roboto-mono/roboto-mono-v13-latin-ext_latin-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-       url('./roboto-mono/roboto-mono-v13-latin-ext_latin-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    url('./roboto-mono/roboto-mono-v13-latin-ext_latin-700.woff2') format('woff2'),
+    /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./roboto-mono/roboto-mono-v13-latin-ext_latin-700.woff') format('woff');
+  /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
+
 /* roboto-mono-italic - latin-ext_latin */
 @font-face {
   font-family: 'Roboto Mono';
   font-style: italic;
   font-weight: 400;
   src: local(''),
-       url('./roboto-mono/roboto-mono-v13-latin-ext_latin-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-       url('./roboto-mono/roboto-mono-v13-latin-ext_latin-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    url('./roboto-mono/roboto-mono-v13-latin-ext_latin-italic.woff2') format('woff2'),
+    /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./roboto-mono/roboto-mono-v13-latin-ext_latin-italic.woff') format('woff');
+  /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
+
 /* roboto-mono-700italic - latin-ext_latin */
 @font-face {
   font-family: 'Roboto Mono';
   font-style: italic;
   font-weight: 700;
   src: local(''),
-       url('./roboto-mono/roboto-mono-v13-latin-ext_latin-700italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-       url('./roboto-mono/roboto-mono-v13-latin-ext_latin-700italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    url('./roboto-mono/roboto-mono-v13-latin-ext_latin-700italic.woff2') format('woff2'),
+    /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./roboto-mono/roboto-mono-v13-latin-ext_latin-700italic.woff') format('woff');
+  /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
+
 /* roboto-serif-regular - latin-ext_latin */
 @font-face {
   font-family: 'Roboto Serif';
   font-style: normal;
   font-weight: 400;
   src: local(''),
-       url('./roboto-serif/roboto-serif-v5-latin-ext_latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-       url('./roboto-serif/roboto-serif-v5-latin-ext_latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    url('./roboto-serif/roboto-serif-v5-latin-ext_latin-regular.woff2') format('woff2'),
+    /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./roboto-serif/roboto-serif-v5-latin-ext_latin-regular.woff') format('woff');
+  /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
+
 /* roboto-serif-900 - latin-ext_latin */
 @font-face {
   font-family: 'Roboto Serif';
   font-style: normal;
   font-weight: 900;
   src: local(''),
-       url('./roboto-serif/roboto-serif-v5-latin-ext_latin-900.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-       url('./roboto-serif/roboto-serif-v5-latin-ext_latin-900.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    url('./roboto-serif/roboto-serif-v5-latin-ext_latin-900.woff2') format('woff2'),
+    /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./roboto-serif/roboto-serif-v5-latin-ext_latin-900.woff') format('woff');
+  /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
+
 /* roboto-serif-italic - latin-ext_latin */
 @font-face {
   font-family: 'Roboto Serif';
   font-style: italic;
   font-weight: 400;
   src: local(''),
-       url('./roboto-serif/roboto-serif-v5-latin-ext_latin-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-       url('./roboto-serif/roboto-serif-v5-latin-ext_latin-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    url('./roboto-serif/roboto-serif-v5-latin-ext_latin-italic.woff2') format('woff2'),
+    /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./roboto-serif/roboto-serif-v5-latin-ext_latin-italic.woff') format('woff');
+  /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
+
 /* roboto-serif-900italic - latin-ext_latin */
 @font-face {
   font-family: 'Roboto Serif';
   font-style: italic;
   font-weight: 900;
   src: local(''),
-       url('./roboto-serif/roboto-serif-v5-latin-ext_latin-900italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-       url('./roboto-serif/roboto-serif-v5-latin-ext_latin-900italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    url('./roboto-serif/roboto-serif-v5-latin-ext_latin-900italic.woff2') format('woff2'),
+    /* Chrome 26+, Opera 23+, Firefox 39+ */
+    url('./roboto-serif/roboto-serif-v5-latin-ext_latin-900italic.woff') format('woff');
+  /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
