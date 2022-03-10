@@ -6,7 +6,7 @@ title: Home
 <head></head>
 
 <div class="section">
-    {% include intro-top.html %}
+{% include intro-top.html %}
 
 <div class="content" markdown="1">
 {% include intro-short.md %}

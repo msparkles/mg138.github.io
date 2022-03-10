@@ -18,20 +18,18 @@ title: Contact
 </div>
 
 <h2>
-  <a href="https://www.youtube.com/c/muguang138">
-    Youtube Channel
-  </a>
+<a href="https://www.youtube.com/c/muguang138">
+Youtube Channel
+</a>
 </h2>
 <div class="content" markdown="1">
-  It mostly consists of songs from the *My Little Pony* fandom, \\
-  translated from English to Chinese.
+It mostly consists of songs from the *My Little Pony* fandom, \\
+translated from English to Chinese.
 </div>
 
 <h2>Email</h2>
 <div class="content" markdown="1">
 *muguang138@gmail.com*
 </div>
-
-
 
 </div>
