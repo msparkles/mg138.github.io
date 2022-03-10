@@ -1,31 +1,40 @@
 @import url("/font/fonts.css");
 
 :root {
-  --gray: #121212;
-  --white: #dcdcdc;
-  --orange: #ffc271;
+  --white: #272727;
+  --gray: #1b1b1b;
+  --orange: #ffc67b;
   --yellow: #fdffa3;
 
-  --violet-deep: #c7a7cf;
-  --violet-normal: #a174bb;
-  --violet-light: #633283;
+  --violet-light: #8248a8;
+  --violet-normal: #a347d8;
+  --violet-deep: #ce9eda;
 
-  --indigo-dark: #999adf;
-  --indigo-normal: #6e5eb9;
-  --indigo-deep: #201d38;
-  --indigo-light: #191629;
+  --indigo-light: #6048e4;
+  --indigo-normal: #9b91da;
+  --indigo-deep: #d1c2f1;
+  --indigo-dark: #d8c8ee;
 
-  --black-medium: #40404090;
+  --black-medium: #a1a1a190;
 }
 
 @media only screen and (prefers-color-scheme: dark) {
   :root {
     --white: #f0f0f0;
     --gray: #cacaca;
+    --orange: #ffc271;
+    --yellow: #fdffa3;
+
     --violet-light: #c7a7cf;
+    --violet-normal: #a174bb;
     --violet-deep: #633283;
-    --indigo-dark: #191629;
+
     --indigo-light: #999adf;
+    --indigo-normal: #6e5eb9;
+    --indigo-deep: #201d38;
+    --indigo-dark: #191629;
+
+    --black-medium: #40404090;
   }
 }
 
@@ -55,7 +64,7 @@
 .box,
 .nav-element {
   border-radius: 0.25rem;
-  color: var(--white);
+  color: white;
 }
 
 .nav-element {
