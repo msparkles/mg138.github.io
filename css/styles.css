@@ -1,12 +1,14 @@
+@import url("/font/fonts.css");
+
 :root {
-  --white: #f0f0f0;
-  --gray: #cacaca;
+  --gray: #121212;
+  --white: #dcdcdc;
   --orange: #ffc271;
   --yellow: #fdffa3;
 
-  --violet-light: #c7a7cf;
+  --violet-deep: #c7a7cf;
   --violet-normal: #a174bb;
-  --violet-deep: #633283;
+  --violet-light: #633283;
 
   --indigo-light: #999adf;
   --indigo-normal: #6e5eb9;
@@ -14,6 +16,17 @@
   --indigo-dark: #191629;
 
   --black-medium: #40404090;
+}
+
+@media only screen and (prefers-color-scheme: dark) {
+    :root {
+        --white: #f0f0f0;
+        --gray: #cacaca;
+        
+         --violet-light: #c7a7cf;
+         --violet-normal: #a174bb;
+         --violet-deep: #633283;
+    }
 }
 
 .bold {
