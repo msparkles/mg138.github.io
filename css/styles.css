@@ -118,7 +118,9 @@ h6 {
 .intro-avatar {
   float: right;
 
-  margin: 30px;
+  margin-left: 6px;
+  margin-right: 10px;
+  margin-block: 30px;
 
   border-radius: 50%;
   outline: 3px solid var(--indigo-light);
