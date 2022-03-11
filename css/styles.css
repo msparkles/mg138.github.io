@@ -57,8 +57,14 @@
   font-family: "Inter", sans-serif !important;
 }
 
-.font-serif, h1 {
-  font-family: "Lora", serif !important;
+.font-serif,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Lora", serif;
 }
 
 .box,
@@ -149,8 +155,6 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: inherit;
-
   color: var(--white);
 
   font-style: normal;
