@@ -15,21 +15,20 @@ title: Home
 </div>
 
 <div class="section">
-    <h1 class="font-serif">What I've Been Proud With</h1>
+    <h1>What I've Been Proud With</h1>
 
     <div class="content">
-        <h2 class="font-serif"><a href="https://github.com/Mg138/ASCII-for-dear-book-horse">ASCII For Dear Book Horse</a></h2>
+        <h2><a href="https://github.com/Mg138/ASCII-for-dear-book-horse">ASCII For Dear Book Horse</a></h2>
         <div class="content">
-            "Obfuscated C Code"
-            <br>
+            <p>"Obfuscated C Code"</p>
             <img class="box" src="https://github.com/Mg138/ASCII-for-dear-book-horse/blob/master/book.png?raw=true" alt="ascii c code">
         </div>
     </div>
 
     <div class="content">
-        <h2 class="font-serif"><a href="https://github.com/Skydale">Skydale</a></h2>
+        <h2><a href="https://github.com/Skydale">Skydale</a></h2>
         <div class="content">
-            "An Open MMORPG Minecraft Server."
+            <p>"An Open MMORPG Minecraft Server."</p>
         </div>
     </div>
 </div>

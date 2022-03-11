@@ -7,26 +7,26 @@ title: Contact
 
 <div class="section">
 
-<h2 class="font-serif">Discord</h2>
+<h1>Discord</h1>
 <div class="content" markdown="1">
 *Twinkle Sprinkle#5806*
 </div>
 
-<h2 class="font-serif">Matrix</h2>
+<h1>Matrix</h1>
 <div class="content" markdown="1">
 *@twinklesprinkle:matrix.org*
 </div>
 
-<h2 class="font-serif">
+<h1>
 <a href="https://www.youtube.com/c/muguang138">
 Youtube Channel
 </a>
-</h2>
+</h1>
 <div class="content" markdown="1">
 It mostly consists of songs from the *My Little Pony* fandom, translated from English to Chinese.
 </div>
 
-<h2 class="font-serif">Email</h2>
+<h1>Email</h1>
 <div class="content" markdown="1">
 *muguang138@gmail.com*
 </div>
