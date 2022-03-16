@@ -149,8 +149,8 @@ h6 {
 }
 
 .code {
-  max-width: 1204px;
-  max-height: 241px;
+  width: 1204px;
+  height: 241px;
 }
 
 .image-container {
