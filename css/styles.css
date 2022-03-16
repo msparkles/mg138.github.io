@@ -3,19 +3,19 @@
 :root {
   --white: #272727;
   --gray: #1b1b1b;
-  --orange: #ffc67b;
+  --orange: #ffc271;
   --yellow: #fdffa3;
 
-  --violet-light: #8248a8;
-  --violet-normal: #a347d8;
-  --violet-deep: #ce9eda;
+  --violet-light: #9455be;
+  --violet-normal: #8e0cda;
+  --violet-deep: #e1b6ec;
 
   --indigo-light: #6048e4;
   --indigo-normal: #9b91da;
   --indigo-deep: #d1c2f1;
   --indigo-dark: #d8c8ee;
 
-  --black-medium: #a1a1a190;
+  --black-medium: #8b8b8b90;
 }
 
 @media only screen and (prefers-color-scheme: dark) {
@@ -148,6 +148,18 @@ h6 {
   align-items: flex-start;
 }
 
+.code {
+  max-width: 1204px;
+  max-height: 241px;
+}
+
+.image-container {
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
 h1,
 h2,
 h3,
@@ -195,9 +207,4 @@ a {
   font-style: normal;
   text-decoration: unset;
   color: var(--indigo-light);
-}
-
-img {
-  max-width: fit-content;
-  width: 100%;
 }

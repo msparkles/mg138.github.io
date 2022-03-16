@@ -21,7 +21,11 @@ title: Home
         <h2><a href="https://github.com/Mg138/ASCII-for-dear-book-horse">ASCII For Dear Book Horse</a></h2>
         <div class="content">
             <p>"Obfuscated C Code"</p>
-            <img class="box" src="/image/book.webp" alt="ascii c code">
+            <div class="image-container">
+                <a href="/image/book.webp">
+                    <img class="box code" src="/image/book.webp" alt="ascii c code">
+                </a>
+            </div>
         </div>
     </div>
 

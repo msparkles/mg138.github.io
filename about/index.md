@@ -7,7 +7,7 @@ title: About
 
 <div class="section">
 {% include intro-top.html %}
-    
+
 <div class="content" markdown="1">
 {% include intro.md %}
 </div>
