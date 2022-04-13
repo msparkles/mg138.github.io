@@ -138,14 +138,14 @@ h6 {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  align-items: flex-start;
+  align-items: center;
 }
 
 .inline-flex {
   display: inline-flex;
   flex-wrap: wrap;
   justify-content: center;
-  align-items: flex-start;
+  align-items: center;
 }
 
 .code {
