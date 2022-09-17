@@ -9,7 +9,7 @@ title: Contact
 
 <h1>Discord</h1>
 <div class="content" markdown="1">
-*Twinkle Sprinkle#5806*
+*twinkle_mouse#5806*
 </div>
 
 <h1>Matrix</h1>
