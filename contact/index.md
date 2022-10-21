@@ -14,7 +14,7 @@ title: Contact
 
 <h1>Matrix</h1>
 <div class="content" markdown="1">
-*@twinklesprinkle:matrix.org*
+*@twinkle:antifash.gay*
 </div>
 
 <h1>
